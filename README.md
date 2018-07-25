@@ -1,5 +1,9 @@
 # MOOCacademy
 
+Enoncé
+```
+Tu dois créer une plateforme d'apprentissage en ligne. Il y a plein de cours. Chaque cours a un titre et une description. Enfin, chaque cours a plusieurs leçons, qui ont un titre et un body
+```
 
 ## Gems and Libraries
 - `ActiveRecord` library to manipulate an sqlite3 database, it comes along with Rails.
